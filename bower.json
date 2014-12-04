@@ -1,0 +1,17 @@
+{
+  "name": "NSS-SimpleAngularBinding",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jessicafraines/NSS-SimpleAngularBinding",
+  "authors": [
+    "jessicafraines <jessicafraines@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
